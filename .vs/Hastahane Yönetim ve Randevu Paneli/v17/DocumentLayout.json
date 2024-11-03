@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hakan\\source\\repos\\Hastahane Y\u00F6netim ve Randevu Paneli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{342D70E7-CB7E-4C54-8468-2068CEF81AEA}|Hastahane Y\u00F6netim ve Randevu Paneli.csproj|c:\\users\\hakan\\source\\repos\\hastahane y\u00F6netim ve randevu paneli\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{342D70E7-CB7E-4C54-8468-2068CEF81AEA}|Hastahane Y\u00F6netim ve Randevu Paneli.csproj|solutionrelative:frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDuyurular.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\Hastahane Y\u00F6netim ve Randevu Paneli\\FrmDuyurular.cs",
+              "RelativeDocumentMoniker": "FrmDuyurular.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\Hastahane Y\u00F6netim ve Randevu Paneli\\FrmDuyurular.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmDuyurular.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:35:08.603Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

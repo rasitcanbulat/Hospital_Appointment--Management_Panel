@@ -1,0 +1,23 @@
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\bin\Debug\Hastahane Yönetim ve Randevu Paneli.exe.config
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\bin\Debug\Hastahane Yönetim ve Randevu Paneli.exe
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\bin\Debug\Hastahane Yönetim ve Randevu Paneli.pdb
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane Yönetim ve Randevu Paneli.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.Properties.Resources.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane Yönetim ve Randevu Paneli.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane Yönetim ve Randevu Paneli.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane Yönetim ve Randevu Paneli.exe
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane Yönetim ve Randevu Paneli.pdb
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmBilgiDüzenle.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmDoktorDetay.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmDoktorGiris.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmGirisler.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmHastaDetay.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmHastaGiris.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmHastaKayıt.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmBrans.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmDoktorBilgiDuzenle.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmDoktorPaneli.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmDuyurular.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmRandevuListesi.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmSekreterDetay.resources
+C:\Users\hakan\source\repos\Hastahane Yönetim ve Randevu Paneli\obj\Debug\Hastahane_Yönetim_ve_Randevu_Paneli.FrmSekreterGiris.resources
