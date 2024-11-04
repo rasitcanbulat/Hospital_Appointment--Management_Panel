@@ -50,7 +50,7 @@
 
 ![Ekran görüntüsü 2024-11-03 233747](https://github.com/user-attachments/assets/edc2a832-2566-45db-a037-8d9d4502a898)
 
-
+# TR
 **Hastane Randevu Yönetim Paneli**
 Bu proje, bir hastane için randevu yönetim paneli sağlayan bir C# uygulamasıdır. Uygulama, hastalar, doktorlar ve sekreterler için farklı giriş ve işlem özelliklerine sahiptir.
 
@@ -76,9 +76,71 @@ Duyuru Yapma: Doktorların görebileceği şekilde duyurular atabilir.
 .NET Framework
 Visual Studio
 
+**Kurulum**
+Kurulum Adımları:
+
+setup.rar dosyasını klasöre ayıklayın.
+Debug klasörüne giriş yapın.
+Kurulum exe yi çalıştırın.
+Kurulumu tamamlayın.
+
+Veritabanı Yapılandırması:
+
+Veritabanını yapılandırmak için SQL dosyasına giriş yapın.
+Veritabanını Kendi SQL tablolarınıza ekleyin.
+Programı Çalıştırın.
+
 **Kullanım**
 Hasta, doktor veya sekreter girişi ekranlarından uygun bilgileri girerek sisteme giriş yapılabilir.
 Detaylı kullanım için yukarıda özellikler bölümünde belirtilen işlemler yapılabilir.
 
 **Katkıda Bulunma**
 Katkı sağlamak için lütfen bir pull request gönderin veya iletişime geçin.
+
+# ENG
+
+**Hospital Appointment Management Panel**
+This project is a C# application that provides an appointment management panel for a hospital. The application includes unique login and function features for patients, doctors, and secretaries.
+
+**Features**
+1. **Patient Login**
+   - **Sign-Up and Login:** Patients can create an account and log in.
+   - **Appointment Booking:** Patients can book appointments with their chosen department and doctor, based on the times set by secretaries.
+   - **Information Update:** Patients can update their personal information.
+   - **View Past Appointments:** Patients can view a list of their previous appointments.
+
+2. **Doctor Login**
+   - **Login:** Doctors can log in using their provided ID number and password.
+   - **Announcements:** Doctors can view announcements posted specifically for them by secretaries.
+   - **View Appointments:** Doctors can see the appointments scheduled with them.
+   - **Information Update:** Doctors can update their personal information.
+
+3. **Secretary Login**
+   - **Login:** Secretaries can log in using their assigned ID number and password.
+   - **Doctor and Department Management:** Secretaries can add or remove doctors and departments.
+   - **Appointment Management:** Secretaries can view, add, or manage appointments.
+   - **Announcements:** Secretaries can post announcements that doctors can view.
+
+**Requirements:**
+- .NET Framework
+- Visual Studio
+
+# Installation
+Installation Steps:
+
+1. Extract the `setup.rar` file to a folder.
+2. Enter the Debug folder.
+3. Run the setup `.exe` file.
+4. Complete the installation.
+
+Database Configuration:
+
+1. Access the SQL file to set up the database.
+2. Add the database to your own SQL tables.
+3. Run the application.
+
+**Usage**
+Users can log in as a patient, doctor, or secretary by entering the appropriate information on their respective login screens. Detailed instructions for usage are covered in the features section above.
+
+**Contributing**
+To contribute, please submit a pull request or contact us.
