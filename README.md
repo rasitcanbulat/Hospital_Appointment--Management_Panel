@@ -125,7 +125,7 @@ This project is a C# application that provides an appointment management panel f
 - .NET Framework
 - Visual Studio
 
-# Installation
+**Installation**
 Installation Steps:
 
 1. Extract the `setup.rar` file to a folder.
